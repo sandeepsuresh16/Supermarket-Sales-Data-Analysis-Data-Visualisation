@@ -1,3 +1,3 @@
 # Project
-Data Analytics Projects
- 1. Supermarket Sales Analysis using Python
+Supermarket Sales Analysis using Python which is done as a part of EduBridge's Data Analytics course.
+
